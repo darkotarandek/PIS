@@ -10,6 +10,7 @@ namespace PIS
         static void Main(string[] args)
         {
             Console.WriteLine("Haker");
+            Console.WriteLine("E di si?");
         }
     }
 }
