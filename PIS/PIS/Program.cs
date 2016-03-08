@@ -9,7 +9,8 @@ namespace PIS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Haker");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Darko");
         }
     }
 }
