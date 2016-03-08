@@ -11,6 +11,8 @@ namespace PIS
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Darko");
+            Console.WriteLine("Haker");
+            Console.WriteLine("E di si?");
         }
     }
 }
