@@ -7,6 +7,6 @@ namespace PIS
 {
     class novaKlasa
     {
-            
+        Console.WriteLine("AHHAAHAHAH");
     }
 }
