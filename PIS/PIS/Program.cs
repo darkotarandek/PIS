@@ -16,15 +16,4 @@ namespace PIS
             Console.WriteLine("Chelsea!");
         }
     }
-
-    class NovaKlasa {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Darko");
-            Console.WriteLine("Haker");
-            Console.WriteLine("E di si?");
-            Console.WriteLine("Chelsea!");
-        }
-    }
 }
