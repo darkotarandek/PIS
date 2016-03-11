@@ -13,6 +13,7 @@ namespace PIS
             Console.WriteLine("Darko");
             Console.WriteLine("Haker");
             Console.WriteLine("E di si?");
+            Console.WriteLine("Chelsea!");
         }
     }
 }
